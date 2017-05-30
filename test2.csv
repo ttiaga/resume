@@ -1,0 +1,34 @@
+Name,Surname,"Company 1","Date 1","Title 1","Description 1","Company 2","Date 2","Title 2","Description 2","Company 3","Date 3","Title 3","Description 3"
+Ted,Tiaga,"En Pointe Technologies","(August 2010 to Present)","Principal Architect","Providing support in designing and pre-sales engineering on datacenter products and services.
+Performing responsibilities of gathering and explaining complex technical concepts to address customer business requirement 
+Responsible for solving complex datacenter system designs.
+Playing lead role in system and network designing, pricing, customer presentations and technical consulting 
+Monitoring sales prospect and develop strategies to maintain strong relationship with customers 
+Developing account plans and assist the sales team in qualifying and closing specific customer opportunities","The Upper Deck Company","2007 to 2010","Director, Information Technology ","  Partnered with executives to develop/commit resources, communicate global objectives, and produce standards and procedures. Facilitated efficiency/time savings for business units.
+  Managed UD's data center consolidation (3 locations) producing $292K in annual cost savings.  
+  Architected server consolidation to VMware ESX 3.5 Dell based servers. Complete virtualization of appropriate systems (120+ VM's).
+  Implemented Plainview resource management solution to clarify the status of human capital, the load upon it and the effects of project shifting.  It assisted in forecasting available area to shift and the ability to view the human capital affect.
+  Directed the planning and implementation of business process and technical controls specifically designed to mitigate the risk to critical business functions related to security breaches, weak business practices, and disasters.
+  Introduced and adhered to change management controls for infrastructure, software development, and production deployments.
+  Restructured all telecommunications contracts (voice & cellular) producing an annual savings of over $300K.
+  Assumed additional responsibilities as required.
+  Strategically upgraded the companies Nortel Meridian PBX to a full Cisco CCM / CXX, including 12 inbound ACD queues, 40+ agents, and 400+ handsets.
+  Hands on build of a new MMOG infrastructure, including Cisco 6509 VSS with ACE modules.
+  Implemented MPLS for all domestic locations, reducing T1 and ATM costs by $350K annually.
+","LifeScript (iLinkMD)","2006 to 2007","Chief Technology Officer ","  Successfully added a new primary datacenter location, implemented BGP routing, utilizing Cisco 7206 edge routing, 6500 core switching, 3650 access switching, ASA 5540s for firewall security and secured VPN connectivity, and 3845s for DS3 point to point connectivity.
+  Created Sarbanes-Oxley IT Current Practices, Assessments, and Test Plans, for SOX compliance 
+  Responsible for applying effective information assurance procedures and policies including change management, security policies, disaster recovery, release management, systems maintenance and operations 
+  Designed and engineered commercial email delivery systems (MSSQL, C#, TSQL, Iron Port) to handle subscription base of 10+ mm.  The cost saving in this build vs. buy model reduced the acquisition by $1m.  Delivery of the company newsletter to the inbox increased over 70%, achieving a 98% successful delivery rate.  The increase resulted in increased ad sales revenue and stronger sales figures from web-based ad sales, an approximately $16k increase in monthly sales.
+  Organized HIPAA transaction, privacy, and security committees and created/managed HIPAA project plan and documentation. Reviewed/altered/wrote policies, procedures and presentations. Created and maintained online HIPAA resources for committee members and physicians.
+  Successfully designed, deployed, and managed a VMware multi-node enterprise install into the development then production environment. This included the use of VMotion, VMFS, P2V, HA, and DRS. This implementation reduced overall cost and management of the production environment, and achieved the ability to scale on demand.  Capacity allowed us to increase our server count to 200% over the initial 72 system deployment, totaling a theoretical limit of 230 systems.  The implementation reduced the server acquisition costs by $500k and SAN switch costs by $129k.
+  Hands on management of Clariion 300, CX340, Celerra NS40G, and AX150. (70tb total storage)
+  Reduced outsourced DNS costs by bringing services in house on Infoblox 550s. ROI positive achieved in 4 months.
+  Utilized CDN services for an improved user experience and the ability to handle short term high load traffic.
+  Successfully introduced and adopted the Agile project management methodology, thus increasing visibility and better business unit alignment. 
+  Re-architected several applications from a single tier design to a multi-tier design, breaking out business logic and data access layers.
+  Design and development oversight of commercial email system, customer management system, CMS integration, SOA services, partner integration, and numerous web services.
+  Utilized Microsoft BI (business intelligence) tools to provide executive dashboards with primary KPI's, extending customer and performance reporting for all business units, and improved analytical reporting for financials. This saved hundreds of human hours and a soft dollar savings achieved post BI deployment in excess of $100k annually.  The average report time was reduced by 10 hours to less than 5 minutes and resulted in faster sales decisions.
+  Created roadmap for development migration from classic ASP and SQL SP to C#, CSS, OO design methods.
+"
+George,Kastanza,,,,,,,,,,,,
+Apple,Pie,,,,,,,,,,,,
