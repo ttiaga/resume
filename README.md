@@ -13,4 +13,6 @@ Bottle
 JSON
 
 
- 
+Azure API location: http://23.99.53.33:8080
+Full string to pull raw JSON: http://23.99.53.33:8080/search/Ted
+
