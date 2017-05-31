@@ -17,3 +17,9 @@ Azure API location: http://23.99.53.33:8080
 Full string to pull raw JSON: http://23.99.53.33:8080/search/Ted
 
 Went down the rabbit hole. Over complicated project. Restarting - 9:44pm 5/30/2017
+resume-api.py now deprecated
+
+updated .02
+--resume2-api.py
+--returns PDF transformed to JSON
+
