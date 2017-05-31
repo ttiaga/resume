@@ -23,3 +23,4 @@ updated .02
 --resume2-api.py
 --returns PDF transformed to JSON
 
+Full string to pull raw JSON: http://23.99.53.33:8080/ted.json
